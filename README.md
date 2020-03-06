@@ -2,16 +2,16 @@
 
 This is an Instagram clone with a custom Parse backend that allows a user to post photos, view a global photos feed, and add comments!
 
-Time spent: **X** hours spent in total
+Time spent: **20** hours spent in total
 
 ## User Stories
 
 The following **required** functionality is completed:
 
-- [ ] User stays logged in across restarts. (1pt)
-- [ ] User can log out. (1pt)
-- [ ] User can view comments on a post. (3pts)
-- [ ] User can add a new comment. (5pts)
+- [ x] User stays logged in across restarts. (1pt)
+- [x ] User can log out. (1pt)
+- [x ] User can view comments on a post. (3pts)
+- [x ] User can add a new comment. (5pts)
 
 The following **bonus** features are implemented:
 
@@ -20,13 +20,8 @@ The following **bonus** features are implemented:
 
 ## Video Walkthrough
 
-Here's a walkthrough of implemented user stories:
 
-<img src='https://github.com/ericcai001x/Parstagram/blob/master/屏幕录制2020-03-05下午7.27.53.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' /># Parstagram - Part I
-
-This is an Instagram clone with a custom Parse backend that allows a user to post photos and view a global photos feed.
-
-Time spent: **X** hours spent in total
+Time spent: **20** hours spent in total
 
 ## User Stories
 
@@ -44,7 +39,4 @@ The following **bonus** features are implemented:
 - [ ] User can load past tweets infinitely. (2pts)
 
 ## Video Walkthrough
-
-Here's a walkthrough of implemented user stories:
-
-<img src='.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
+Could not get instagram account working after creating one
